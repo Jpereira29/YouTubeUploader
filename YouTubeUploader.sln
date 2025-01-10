@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeUploader", "YouTubeUploader\YouTubeUploader.csproj", "{A1E03396-F78C-4D86-9DED-EEADC283E930}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeUploaderTests", "YouTubeUploaderTests\YouTubeUploaderTests.csproj", "{3DCB18D8-5C7B-4419-9F2E-F49CB067C588}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A1E03396-F78C-4D86-9DED-EEADC283E930}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1E03396-F78C-4D86-9DED-EEADC283E930}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1E03396-F78C-4D86-9DED-EEADC283E930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCB18D8-5C7B-4419-9F2E-F49CB067C588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCB18D8-5C7B-4419-9F2E-F49CB067C588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCB18D8-5C7B-4419-9F2E-F49CB067C588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCB18D8-5C7B-4419-9F2E-F49CB067C588}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
